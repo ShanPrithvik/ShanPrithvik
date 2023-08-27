@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @ShanPrithvik
+- 👀 I’m interested in Python
+- 🌱 I’m currently learning HND in Computing and Software Engineering
+- 💞️ I’m looking to collaborate on Automation
+- 📫 How to reach me: (shanprithvik@gmail.com)
